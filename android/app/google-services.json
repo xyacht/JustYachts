@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "743023478098",
+    "project_id": "xyacht-b448b",
+    "storage_bucket": "xyacht-b448b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743023478098:android:144f6f62401e83e423e68b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.justyacht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743023478098-ft4qh6kgtfgtmnts45cpo0ag89sfuif9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.justyacht",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "743023478098-mpdodhdp3fftbcq1s4jacnmc6iup3p98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSYMmxPhjDqrBObA8t3maz_1k8kpqlThI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743023478098-mpdodhdp3fftbcq1s4jacnmc6iup3p98.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743023478098-tn31bbtkgjmbcejamuaigqttl6kofocb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.justyacht"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
